@@ -1,7 +1,6 @@
 import React, { useRef } from 'react';
 
 import Actions from './actions';
-import AddComment from './add-comment';
 import Footer from './footer';
 import Header from './header';
 import Image from './image';

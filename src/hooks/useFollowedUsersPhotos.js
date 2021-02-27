@@ -1,5 +1,4 @@
-import { getTime } from 'date-fns';
-import React, { useState, useContext, useEffect } from 'react';
+import { useState, useContext, useEffect } from 'react';
 import { getUserByUserId, getUserFollowedPhotos } from '../services/firebase';
 import UserContext from '../context/user';
 
